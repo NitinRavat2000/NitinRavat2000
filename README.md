@@ -11,22 +11,21 @@
 
 <h3 align="left">About:</h3>
 
-<h3>A curiosity-driven data scientist, eager to leverage machine learning and data analytics to extract meaningful insights, detect object and segmentation and tracking using different algorithms, make informed decisions and solve challenging business problems. I ensure to contribute with my knowledge, logical thinking and analytical skills towards the consistent growth and development of the organization, and enhance my experience through continuous learning and teamwork.
+* A curiosity-driven data scientist, eager to leverage machine learning and data analytics to extract meaningful insights, detect object and segmentation and tracking using different algorithms, make informed decisions and solve challenging business problems. I ensure to contribute with my knowledge, logical thinking and analytical skills towards the consistent growth and development of the organization, and enhance my experience through continuous learning and teamwork.
 
-Skillsets:
+<h3>Skillsets :</h3>
 
-Proficient in Machine Learning algorithms Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, SVM, Naive-Bayes, k-NN, PCA, k-means Clustering; Loss functions, Optimization Functions.
+* Proficient in Machine Learning algorithms Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, SVM, Naive-Bayes, k-NN, PCA, k-means Clustering; Loss functions, Optimization Functions.
 
-Statistical modelling, Linear Algebra, Hypothesis testing, Evaluation Metrics, Predictive Analytics, Time-series Analysis, RegularExpressions.
+* Statistical modelling, Linear Algebra, Hypothesis testing, Evaluation Metrics, Predictive Analytics, Time-series Analysis, RegularExpressions.
 
-Deep Learning (Neural Networks) various network architectures of CNNs.
+* Deep Learning (Neural Networks) various network architectures of CNNs.
 Computer Vision :- Faster RCNN, YOLO, Detectron - 2, SSD, Object Detection, Object Segmentation, Object Tracking.
 
-Technology:
+<h3>Technology :</h3>
 
-Skilled in Python (pandas, numpy, statsmodels, matplotlib, seaborn, scikit-learn, convolution neural networks tensorflow, keras); ,SQL (queries, joins, aggregations),Flask Api, Git (version control), Computer Vision (opencv), git, Tableau.
+* Skilled in Python (pandas, numpy, statsmodels, matplotlib, seaborn, scikit-learn, convolution neural networks tensorflow, keras); ,SQL (queries, joins, aggregations),Flask Api, Git (version control), Computer Vision (opencv), git, Tableau.
 
-</h3>
 
 
 ### My Hobbies and interests -
