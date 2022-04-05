@@ -11,7 +11,7 @@
 
 <h3>Experience :</h3>
 
-* I have completed internship as a Jr.Data Scientist from amenity technology. Where i have learned python to Design, bulid and evaliate machine learning models for predictive learning.i also learned how to use statistical technology with different types of visualization and data mining to build scalable and innovation solutions.
+* I have completed internship as a Jr.Data Scientist from amenity technology. Where i have learned python to Design, bulid and evaluate machine learning models for predictive learning.i also learned how to use statistical technology with different types of visualization and data mining to build scalable and innovation solutions.
 
 
 <h3 align="left">About:</h3>
