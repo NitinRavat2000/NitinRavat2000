@@ -4,8 +4,8 @@
 ### I have technical experience and interest in -
 * Machine Learning
 * Deep Learning
+* Statictical Analysis 
 * Computer vision 
-* Natural Language Processing 
 * Cloud Deployment
 
 
