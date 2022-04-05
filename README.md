@@ -2,11 +2,16 @@
 <h1 align="center">I'm Nitin 😀</h1>
 
 ### I have technical experience and interest in -
-* Deep Learning
 * Machine Learning
+* Deep Learning
 * Computer vision 
 * Natural Language Processing 
 * Cloud Deployment
+
+
+<h3>Experience :</h3>
+
+* I have completed internship as a Jr.Data Scientist from amenity technology. Where i have learned python to Design, bulid and evaliate machine learning models for predictive learning.i also learned how to use statistical technology with different types of visualization and data mining to build scalable and innovation solutions.
 
 
 <h3 align="left">About:</h3>
@@ -19,8 +24,6 @@
 
 * Statistical modelling, Linear Algebra, Hypothesis testing, Evaluation Metrics, Predictive Analytics, Time-series Analysis, RegularExpressions.
 
-* Deep Learning (Neural Networks) various network architectures of CNNs.
-Computer Vision :- Faster RCNN, YOLO, Detectron - 2, SSD, Object Detection, Object Segmentation, Object Tracking.
 
 <h3>Technology :</h3>
 
