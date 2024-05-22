@@ -11,7 +11,7 @@
 
 <h3>Experience :</h3>
 
-* I have completed internship as a Jr.Data Scientist from amenity technology. Where i have learned python to Design, bulid and evaluate machine learning models for predictive learning.i also learned how to use statistical technology with different types of visualization and data mining to build scalable and innovation solutions.
+* Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and big data technologies to drive business insights and inform strategic decision-making. Demonstrated success in creating innovative data solutions that improve operational efficiency and enhance customer engagement. Skilled in Python,SQL, and various machine learning frameworks, with strong analytical and problem-solving capabilities. Excellent communicator, adept at translating complex data into actionable insights for cross-functional teams. Passionate about leveraging data to address real-world challenges and promote business success..
 
 
 <h3 align="left">About:</h3>
