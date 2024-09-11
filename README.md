@@ -2,22 +2,22 @@
 <h1 align="center">I'm Nitin 😀</h1>
 <h2 align="center">Data Scientist</h2>
 
-### I have technical experience and interest in -
+### Technical Skills -
 * Machine Learning
 * Deep Learning
 * Statictical Analysis 
 * Computer vision 
 * Cloud Deployment
 
-<h3 align="left">About:</h3>
+## About
 
 * Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and deep learning solutions to drive business insights and inform strategic decision-making. I have a proven track record of developing innovative data solutions that enhance operational efficiency and improve product accuracy. My experience includes delivering AI products with high accuracy. I am proficient in Python, SQL, and various machine learning frameworks, and I possess strong analytical and problem-solving skills.
 * I offer freelance consultancy services, assisting with various PhD research projects as well as contract work for third-party organizations. Leveraging my expertise in the data science domain, I help clients address and solve complex, critical challenges in their respective fields. My experience includes collaborating with academic researchers and businesses, providing them with tailored solutions, and guiding them through data-driven decision-making processes. This blend of research-oriented and industry-driven problem-solving enables me to contribute effectively to diverse projects, helping clients achieve their objectives with precision.
 
 
-<h3>Work Experience :</h3>
+## Work Experience
 
-* Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and big data technologies to drive business insights and inform strategic decision-making. Demonstrated success in creating innovative data solutions that improve operational efficiency and enhance customer engagement. Skilled in Python,SQL, and various machine learning frameworks, with strong analytical and problem-solving capabilities. Excellent communicator, adept at translating complex data into actionable insights for cross-functional teams. Passionate about leveraging data to address real-world challenges and promote business success..
+* 
 
 
 <h3>Skillsets :</h3>
