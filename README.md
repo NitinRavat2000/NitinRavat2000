@@ -10,7 +10,7 @@
 * Statistical Analysis (Descriptive Statistics, Inferential Statistics, Time Series Analysis)
 * Computer vision
 * Data Visualization Tools (Tableau, Power BI, Google Data Studio, Apache Hadoop, Google BigQuery)
-* Cloud Deployment (Azure VM - linex/windows)
+* Cloud Deployment (Azure VM - linux/windows)
 
 ## About
 
