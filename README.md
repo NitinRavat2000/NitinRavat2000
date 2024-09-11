@@ -9,15 +9,15 @@
 * Computer vision 
 * Cloud Deployment
 
+<h3 align="left">About:</h3>
 
-<h3>Experience :</h3>
+* Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and deep learning solutions to drive business insights and inform strategic decision-making. I have a proven track record of developing innovative data solutions that enhance operational efficiency and improve product accuracy. My experience includes delivering AI products with high accuracy. I am proficient in Python, SQL, and various machine learning frameworks, and I possess strong analytical and problem-solving skills.
+
+
+<h3>Work Experience :</h3>
 
 * Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and big data technologies to drive business insights and inform strategic decision-making. Demonstrated success in creating innovative data solutions that improve operational efficiency and enhance customer engagement. Skilled in Python,SQL, and various machine learning frameworks, with strong analytical and problem-solving capabilities. Excellent communicator, adept at translating complex data into actionable insights for cross-functional teams. Passionate about leveraging data to address real-world challenges and promote business success..
 
-
-<h3 align="left">About:</h3>
-
-* A curiosity-driven data scientist, eager to leverage machine learning and data analytics to extract meaningful insights, detect object and segmentation and tracking using different algorithms, make informed decisions and solve challenging business problems. I ensure to contribute with my knowledge, logical thinking and analytical skills towards the consistent growth and development of the organization, and enhance my experience through continuous learning and teamwork.
 
 <h3>Skillsets :</h3>
 
