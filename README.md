@@ -3,14 +3,14 @@
 <h2 align="center"> Data Scientist </h2>
 
 ## Technical Skills
-* Python Programming
-* NLP
-* Machine Learning
-* Deep Learning
-* Statictical Analysis 
+* Python Programming (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Keras)
+* NLP (Language Transformers)
+* Machine Learning (Regression, Classification, Clustering Algorihms)
+* Deep Learning (ANN, CNN, Vision Transformers)
+* Statistical Analysis (Descriptive Statistics, Inferential Statistics, Time Series Analysis)
 * Computer vision
-* Data Visualization
-* Cloud Deployment
+* Data Visualization Tools (Tableau, Power BI, Google Data Studio, Apache Hadoop, Google BigQuery)
+* Cloud Deployment (Azure VM - linex/windows)
 
 ## About
 
