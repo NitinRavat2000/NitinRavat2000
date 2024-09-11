@@ -41,6 +41,8 @@
 ### Plant Disease Classification & Localization
 - Developed a solution for plant disease classification and localization using pre-trained models, ResNet-50 and YOLOv8. The achieved classification accuracy is 97%, and the IoU score is 95%.
 
+### I have been involved in numerous projects, but due to confidentiality agreements, I am unable to provide specific details or discuss them openly. Many of these projects are tied to sensitive PhD research work or are personal initiatives of my clients, which require strict discretion. Despite the lack of public disclosure, these engagements have given me extensive experience and have allowed me to work on highly specialized and critical problems across various domains. This focus on confidentiality ensures that I respect the intellectual property and privacy of all parties involved, while still delivering impactful solutions.
+
 
 <!-- <hr>
 
