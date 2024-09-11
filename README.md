@@ -2,7 +2,7 @@
 <h1 align="center">I'm Nitin 😀</h1>
 <h2 align="center">Data Scientist</h2>
 
-### Technical Skills -
+## Technical Skills 
 * Machine Learning
 * Deep Learning
 * Statictical Analysis 
@@ -16,8 +16,13 @@
 
 
 ## Work Experience
-
-* 
+**Data Scientist @ Prompt Dairytech (_May 2022 - Present_)**
+- As a Data Scientist at Prompt Dairy Tech, I focus on developing machine learning ( ML) and deep learning ( DL) solutions.
+- My primary responsibility involves developing AI products that benefit both dairy operations and animal healthcare.
+- I analyze sensor data, perform data cleaning and preprocessing, and build and evaluate models to ensure their effectiveness and generalizability.
+- I am also involved in deploying these models to implement real-world solutions within the dairy industry.
+- Utilizing a range of machine learning algorithms and statistical models, I strive to achieve optimal results in the product.
+- Employing statistical analysis and machine learning solutions enhances the accuracy of healthcare products and data.
 
 
 <h3>Skillsets :</h3>
