@@ -2,11 +2,14 @@
 <h1 align="center">I'm Nitin 😀</h1>
 <h2 align="center">Data Scientist</h2>
 
-## Technical Skills 
+## Technical Skills
+* Python Programming
+* NLP
 * Machine Learning
 * Deep Learning
 * Statictical Analysis 
-* Computer vision 
+* Computer vision
+* Data Visualization
 * Cloud Deployment
 
 ## About
@@ -24,26 +27,19 @@
 - Utilizing a range of machine learning algorithms and statistical models, I strive to achieve optimal results in the product.
 - Employing statistical analysis and machine learning solutions enhances the accuracy of healthcare products and data.
 
+**Data Science Intern @ Amenity Technologies (_Nov 2021 - April_2022_)**
+- During my Data Science Internship at Amenity Technologies, I gained proficiency in Python, using it to create, assess, and fine-tune machine learning models for predictive analysis.
+- I have also acquired knowledge about computer vision and deep learning solutions, which can provide superior results for image and video data.
+- Moreover, I acquired expertise in statistical analysis and mastered various data visualization techniques, which proved instrumental in developing scalable and cutting-edge solutions through data mining.
+- My internship experience provided valuable insights into industry-level practices and real-world project dynamics, enabling me to understand how data science is effectively applied in practical scenarios.
 
-<h3>Skillsets :</h3>
+## Projects
+### Medical Visual Question Answering
+- This project integrates cutting-edge technologies in natural language processing ( NLP) and computer vision to develop a robust system capable of understanding and answering complex questions based on visual inputs such as X-rays, MRI scans, CT
+  scans, and other medical imaging modalities. The solution employs BERT transformer models alongside vision transformer models.
 
-* Proficient in Machine Learning algorithms Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, SVM, Naive-Bayes, k-NN, PCA, k-means Clustering; Loss functions, Optimization Functions.
-
-* Statistical modelling, Linear Algebra, Hypothesis testing, Evaluation Metrics, Predictive Analytics, Time-series Analysis, RegularExpressions.
-
-
-<h3>Technology :</h3>
-
-* Skilled in Python (pandas, numpy, statsmodels, matplotlib, seaborn, scikit-learn, convolution neural networks tensorflow, keras); ,SQL (queries, joins, aggregations),Flask Api, Git (version control), Computer Vision (opencv), git, Tableau.
-
-
-
-### My Hobbies and interests -
-* Coding
-* Traveling
-* Singing
-* Yoga
-
+### Plant Disease Classification & Localization
+- Developed a solution for plant disease classification and localization using pre-trained models, ResNet-50 and YOLOv8. The achieved classification accuracy is 97%, and the IoU score is 95%.
 
 
 <!-- <hr>
